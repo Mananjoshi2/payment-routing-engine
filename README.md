@@ -4,7 +4,7 @@ A production-grade payment routing decision engine that optimizes payment method
 
 ## 🎯 Product Overview
 
-This engine demonstrates sophisticated payment routing intelligence that helps merchants select optimal payment methods for each transaction based on:
+This engine selects optimal payment methods for each transaction based on:
 
 - **Geography** - Country-specific payment method availability  
 - **Transaction Context** - Amount, risk level, device type
@@ -195,7 +195,7 @@ Build output generated in `.next` directory.
 
 ## 🤝 Contributing
 
-This is a demonstration project. Contributions welcome:
+Contributions welcome:
 
 1. Fork the repository
 2. Create feature branch
@@ -228,6 +228,3 @@ Before deployment:
 6. **Production Quality**: Error handling, loading states, animations
 7. **Zero Dependencies**: No external APIs or services required
 
----
-
-**Built with precision for demonstrating modern web development capabilities**
